@@ -10,32 +10,14 @@ This repository contains all deliverables for the Cotiviti Internship Challenge 
 
 ---
 
-## Repository Structure
-
-```
-cotiviti-internship-challenge/
-├── README.md
-├── report/
-│   └── Agentic_AI_Clinical_Decision_Making_Report.docx
-├── poc/
-│   ├── cotiviti_poc.py
-│   └── requirements.txt
-├── presentation/
-│   └── Cotiviti_Agentic_AI_Presentation.pptx
-└── video/
-    └── cotiviti_demo.mp4
-```
-
----
-
-## Deliverables
+## Repository Contents
 
 | File | Description |
 |------|-------------|
-| `report/` | 2-page Word report + bibliography on Agentic AI for Clinical Decision Making |
-| `poc/` | Python POC — 3-agent clinical decision pipeline powered by Gemini API |
-| `presentation/` | 8-slide PowerPoint presentation |
-| `video/` | Video walkthrough of presentation and live POC demo |
+| `Agentic Generative AI for Clinical Decision Making.docx` | 2-page Word report + bibliography |
+| `cotiviti_poc.py` | Python POC — 3-agent clinical decision pipeline |
+| `Cotiviti_Agentic_AI_Presentation.pptx` | 8-slide PowerPoint presentation |
+| `cotiviti_demo.mp4` | Video walkthrough of presentation and live POC demo |
 
 ---
 
@@ -63,7 +45,7 @@ pip3 install google-generativeai
 ```
 
 ### Add your Gemini API key
-Open `poc/cotiviti_poc.py` and replace:
+Open `cotiviti_poc.py` and replace:
 ```python
 genai.configure(api_key="YOUR_GEMINI_API_KEY")
 ```
@@ -71,7 +53,7 @@ Get a free key at: https://aistudio.google.com/apikey
 
 ### Run
 ```
-python3 poc/cotiviti_poc.py
+python3 cotiviti_poc.py
 ```
 
 ---
@@ -97,6 +79,6 @@ python3 poc/cotiviti_poc.py
 ## Contact
 
 **Sivasai Atchyut Akella**
-MS CS  AI Concentration | Binghamton University
+MS CS — AI Concentration | Binghamton University
 sakella@binghamton.edu
 [Portfolio](https://portfolio-nine-rho-36.vercel.app) | [GitHub](https://github.com/ShivVIT2019)
