@@ -72,8 +72,7 @@ python3 cotiviti_poc.py
 - Python 3.9+
 - Google Gemini API (gemini-3.1-flash-lite)
 - Multi-agent pipeline architecture
-- HEDIS quality measure framework
-
+- HEDIS (Healthcare Effectiveness Data and Information Set) quality measure framework
 ---
 
 ## Contact
