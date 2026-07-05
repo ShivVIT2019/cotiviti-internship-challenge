@@ -15,7 +15,7 @@ This repository contains all deliverables for the Cotiviti Internship Challenge 
 | File | Description |
 |------|-------------|
 | `Agentic Generative AI for Clinical Decision Making.docx` | 2-page Word report + bibliography |
-| `cotiviti_poc.py` | Python POC — 3-agent clinical decision pipeline |
+| `cotiviti_poc.py` | Python POC  3-agent clinical decision pipeline |
 | `Cotiviti_Agentic_AI_Presentation.pptx` | 8-slide PowerPoint presentation |
 | `cotiviti_demo.mp4` | Video walkthrough of presentation and live POC demo |
 
